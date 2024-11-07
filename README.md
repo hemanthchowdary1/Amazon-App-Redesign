@@ -16,3 +16,6 @@ Profile & Orders: Manage account, view order history.
 
 # Viewing the Design
 Download the Figma file or view it directly in Figma to explore the flow interactively.
+
+
+![Screenshot 2024-11-07 231246](https://github.com/user-attachments/assets/0e7932f9-e9b8-4aa5-b76a-995645ad42e6)
